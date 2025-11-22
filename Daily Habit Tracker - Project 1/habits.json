@@ -1,0 +1,11 @@
+{
+    "default": [
+        "study",
+        "exercise",
+        "meditate",
+        "code"
+    ],
+    "custom": [
+    ],
+    "tracking": []
+}
