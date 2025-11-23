@@ -1,12 +1,13 @@
 import json
-from tracking import track_habits
-from user_habits import user_habits
-
+from src.tracking import track_habits
+from src.user_habits import user_habits
+from src.streak_counter import streak_counter
 command_functions = {
     "track": track_habits,
     "add": user_habits,
     "remove": user_habits,
-    "exit": exit
+    "exit": exit,
+    "streaks": streak_counter
 }
 def handle_user_command(command):
     func = command_functions.get(command)

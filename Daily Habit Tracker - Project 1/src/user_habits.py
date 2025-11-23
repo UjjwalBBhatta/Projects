@@ -1,5 +1,5 @@
 import json
-from . import custom_habits
+from src.custom_habits import custom_habits
 def user_habits():
     """This module is used to let the user add or delete habits to track.
     The habits will be stored in the habits.json file.
@@ -26,7 +26,7 @@ def user_habits():
                 json.dump(data, f, indent = 4)
             print(f"The habit {choice} has been successfully added to your tracking list.")
         elif choice == "custom":
-            custom_habits.custom_habits()
+            custom_habits()
         else:
             print(f"The habit {choice} is not available to add.")
     elif action == "delete":

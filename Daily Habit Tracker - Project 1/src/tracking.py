@@ -1,6 +1,6 @@
 import json
 from datetime import date as dt
-from . import user_habits
+from src.user_habits import user_habits
 
 def track_habits():
     """This module is used to track the user's habits.
@@ -15,7 +15,7 @@ def track_habits():
             if not tracking_habits:
                 answer = input("Do you want to add habits to track? (yes/no): ").strip().lower()
                 if answer in ["yes", "y"]:
-                    user_habits.user_habits()
+                    user_habits()
                     with open("habits.json", "r") as f:
                         habit_data = json.load(f)
                         tracking_habits = habit_data.get("tracking", [])
@@ -25,14 +25,14 @@ def track_habits():
                         print("Exiting the habit tracker.")
                         return
                     else:
-                        user_habits.user_habits()
+                        user_habits()
                         with open("habits.json", "r") as f:
                             habit_data = json.load(f)
                             tracking_habits = habit_data.get("tracking", [])
             else:
                 userinput = input("Do you want to add or delete habits before tracking? (add/delete/no): ").strip().lower()
                 if userinput == "add" or userinput == "delete":
-                    user_habits.user_habits()
+                    user_habits()
                     with open("habits.json", "r") as f:
                         habit_data = json.load(f)
                         tracking_habits = habit_data.get("tracking", [])

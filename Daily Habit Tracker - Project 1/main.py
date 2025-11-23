@@ -1,7 +1,7 @@
 import json
-from tracking import track_habits
-from user_habits import user_habits
-from user_inputs import handle_user_command
+from src.tracking import track_habits
+from src.user_habits import user_habits
+from src.user_inputs import handle_user_command
 def main():
     print("Welcome to the Daily Habit Tracker!")
     while True:
@@ -9,8 +9,9 @@ def main():
             with open("menu.json", "r") as f:
                 menu_data = json.load(f)
                 print("\nMain Menu:")
-                for item in menu_data.get("menu", []):
-                    print(f" - {item}")
+                for command, description in menu_data.get("menu", {}).items():
+                    print(f" - {command}")
+
             command = input("Please enter a command from the menu (or type 'exit' to quit): ").strip().lower()
             if command == "exit":
                 print("Exiting the Daily Habit Tracker. Goodbye!")
@@ -27,7 +28,7 @@ def main():
             break
 if __name__ == "__main__":
     main()
-    
+
 
 
 
