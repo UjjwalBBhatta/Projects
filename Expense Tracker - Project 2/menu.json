@@ -1,0 +1,9 @@
+{
+    "menu":{
+        "add": "Add a new expense",
+        "delete": "Delete an expense",
+        "today": "View today's expenses",
+        "interval": "View expenses over an interval",
+        "exit": "Exit the application"
+    }
+}
