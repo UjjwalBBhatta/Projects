@@ -1,0 +1,11 @@
+{
+    "Images" : [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff"],
+    "Documents" : [ ".docx", ".doc", ".txt"],
+    "Videos" : [".mp4", ".mov", ".avi", ".mkv"],
+    "Music" : [".mp3", ".wav", ".aac", ".flac"],
+    "Archives" : [".zip", ".rar", ".7z", ".tar", ".gz"],
+    "Scripts" : [".py", ".js", ".rb", ".sh", ".bat"],
+    "Spreadsheets" : [".xls", ".xlsx", ".csv"],
+    "Presentations" : [".ppt", ".pptx"],
+    "PDFs" : [".pdf"]
+}
