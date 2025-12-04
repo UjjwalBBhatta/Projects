@@ -1,0 +1,107 @@
+[2025-12-04 10:21:07] Detected file types: {'.docx', '.webp', '.xsl', '.mp4', '.exe', '.txt', '.heic', '.pdf', '.doc', '.xlsx', '.pptx', '.msi', '.ini'}
+[2025-12-04 10:21:07] Created missing folder: Presentations
+[2025-12-04 10:21:07] Created missing folder: PDFs
+[2025-12-04 10:21:07] Created missing folder: Spreadsheets
+[2025-12-04 10:21:07] No target folder found for file 'APASeventhEdition.xsl' with extension '.xsl'.
+[2025-12-04 10:21:07] No target folder found for file 'avc-free.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'Battle.net-Setup.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'Bluebook Setup 0.9.317.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'burpsuite_community_windows-x64_v2025_5_6.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'burpsuite_pro_windows-x64_v2025_5_6.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'calibre-64bit-8.1.1.msi' with extension '.msi'.
+[2025-12-04 10:21:07] No target folder found for file 'CapCut_7418888910752907270_installer.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'ChromeSetup.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'CursorUserSetup-x64-1.2.2.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'DALL·E 2024-09-22 15.53.01 - A 17-year-old Nepali male, standing 6 feet tall, with a light brown skin tone. He has a mustache and a beard, along with curly black hair and brown ey.webp' with extension '.webp'.
+[2025-12-04 10:21:07] No target folder found for file 'DALL·E 2024-10-22 06.45.12 - A 2D male game character with white hair, wearing blue clothes with darker blue pants and a long buttoned jacket. Also include_ 4 types of rocks, 10 t.webp' with extension '.webp'.
+[2025-12-04 10:21:07] No target folder found for file 'DALL·E 2024-10-22 06.45.27 - A 2D male game character with white hair, wearing blue clothes with darker blue pants and a long buttoned jacket. Also include_ 4 types of rocks, 10 t.webp' with extension '.webp'.
+[2025-12-04 10:21:07] No target folder found for file 'DALL·E 2024-10-22 06.55.56 - A sprite sheet of a small character with white hair covering one eye, dressed in a blue long coat with dark boots. The character should have the follo.webp' with extension '.webp'.
+[2025-12-04 10:21:07] No target folder found for file 'DALL·E 2024-10-22 07.04.08 - A sprite sheet of a small character with white hair covering one eye, dressed in a blue long coat with dark boots. The character should have the follo.webp' with extension '.webp'.
+[2025-12-04 10:21:07] No target folder found for file 'DALL·E 2024-10-22 07.04.18 - A sprite sheet of a small character with white hair covering one eye, dressed in a blue long coat with dark boots. The sprite sheet should include_ 8-.webp' with extension '.webp'.
+[2025-12-04 10:21:07] No target folder found for file 'Dell-Alienware-Digital-Delivery-Application_25CR7_WIN_5.0.82.0_A25_01.EXE' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'desktop.ini' with extension '.ini'.
+[2025-12-04 10:21:07] Moved file 'evidence.doc' to folder 'Documents'.
+[2025-12-04 10:21:07] No target folder found for file 'Firefox Installer (1).exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'Firefox Installer.exe' with extension '.exe'.
+[2025-12-04 10:21:07] Moved file 'First Term Exam-2082 - Pre-I, Tulip.xlsx' to folder 'Spreadsheets'.
+[2025-12-04 10:21:07] No target folder found for file 'Git-2.50.1-64-bit.exe' with extension '.exe'.
+[2025-12-04 10:21:07] Moved file 'github-recovery-codes.txt' to folder 'Documents'.
+[2025-12-04 10:21:07] No target folder found for file 'GoogleDriveSetup.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'Grade-8-Science-Test-50marks' with extension ''.
+[2025-12-04 10:21:07] Moved file 'i think they are using the heritage publication bo.docx' to folder 'Documents'.
+[2025-12-04 10:21:07] No target folder found for file 'IMG_3834.heic' with extension '.heic'.
+[2025-12-04 10:21:07] No target folder found for file 'IMG_4030 (1).heic' with extension '.heic'.
+[2025-12-04 10:21:07] No target folder found for file 'IMG_4030.HEIC' with extension '.heic'.
+[2025-12-04 10:21:07] No target folder found for file 'krita-x64-5.2.6-setup.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'LM-Studio-0.3.13-2-x64.exe' with extension '.exe'.
+[2025-12-04 10:21:07] Moved file 'MIT_College_Marketing_Presentation.pptx' to folder 'Presentations'.
+[2025-12-04 10:21:07] Moved file 'MIT_College_Presentation.pptx' to folder 'Presentations'.
+[2025-12-04 10:21:07] No target folder found for file 'nmap-7.97-setup.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'node-v22.17.0-x64 (1).msi' with extension '.msi'.
+[2025-12-04 10:21:07] No target folder found for file 'node-v22.17.0-x64.msi' with extension '.msi'.
+[2025-12-04 10:21:07] No target folder found for file 'OBS-Studio-30.1.2-Full-Installer-x64.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'Obsidian-1.7.7.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'OfficeSetup.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'PathOfBuildingCommunity-Setup.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'PathOfExileInstaller.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'ProtonVPN_v4.3.1_x64.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'ProtonVPN_win_v2.4.3.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'pycharm-community-2023.2.4.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'RobloxPlayerInstaller(1).exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'RobloxPlayerInstaller.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'SteamSetup(1).exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'SteamSetup.exe' with extension '.exe'.
+[2025-12-04 10:21:07] No target folder found for file 'UnityHubSetup.exe' with extension '.exe'.
+[2025-12-04 10:21:07] Moved file 'video.mp4' to folder 'Videos'.
+[2025-12-04 10:21:07] No target folder found for file 'VSCodeUserSetup-x64-1.92.0.exe' with extension '.exe'.
+[2025-12-04 10:21:07] Moved file 'Yaan_ Transforming Nepal's Tourism.pptx' to folder 'Presentations'.
+[2025-12-04 10:21:07] Moved file '[Research in Migration and Ethnic Relations] Stockholm Workshop on Global Migration R, Joakim Palme, Kristof - Globalizing Migration Regimes_ New Challenges to Transnational Cooperation (2006, Ashgate Publishing) - libgen.pdf' to folder 'PDFs'.
+[2025-12-04 10:21:07] File organization complete.
+[2025-12-04 10:21:56] Detected file types: {'.xsl', '.webp', '.msi', '.heic', '.exe', '.ini'}
+[2025-12-04 10:21:56] Created missing folder: Extensions
+[2025-12-04 10:21:56] No target folder found for file 'APASeventhEdition.xsl' with extension '.xsl'.
+[2025-12-04 10:21:56] Moved file 'avc-free.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'Battle.net-Setup.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'Bluebook Setup 0.9.317.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'burpsuite_community_windows-x64_v2025_5_6.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'burpsuite_pro_windows-x64_v2025_5_6.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] No target folder found for file 'calibre-64bit-8.1.1.msi' with extension '.msi'.
+[2025-12-04 10:21:56] Moved file 'CapCut_7418888910752907270_installer.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'ChromeSetup.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'CursorUserSetup-x64-1.2.2.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] No target folder found for file 'DALL·E 2024-09-22 15.53.01 - A 17-year-old Nepali male, standing 6 feet tall, with a light brown skin tone. He has a mustache and a beard, along with curly black hair and brown ey.webp' with extension '.webp'.
+[2025-12-04 10:21:56] No target folder found for file 'DALL·E 2024-10-22 06.45.12 - A 2D male game character with white hair, wearing blue clothes with darker blue pants and a long buttoned jacket. Also include_ 4 types of rocks, 10 t.webp' with extension '.webp'.
+[2025-12-04 10:21:56] No target folder found for file 'DALL·E 2024-10-22 06.45.27 - A 2D male game character with white hair, wearing blue clothes with darker blue pants and a long buttoned jacket. Also include_ 4 types of rocks, 10 t.webp' with extension '.webp'.
+[2025-12-04 10:21:56] No target folder found for file 'DALL·E 2024-10-22 06.55.56 - A sprite sheet of a small character with white hair covering one eye, dressed in a blue long coat with dark boots. The character should have the follo.webp' with extension '.webp'.
+[2025-12-04 10:21:56] No target folder found for file 'DALL·E 2024-10-22 07.04.08 - A sprite sheet of a small character with white hair covering one eye, dressed in a blue long coat with dark boots. The character should have the follo.webp' with extension '.webp'.
+[2025-12-04 10:21:56] No target folder found for file 'DALL·E 2024-10-22 07.04.18 - A sprite sheet of a small character with white hair covering one eye, dressed in a blue long coat with dark boots. The sprite sheet should include_ 8-.webp' with extension '.webp'.
+[2025-12-04 10:21:56] Moved file 'Dell-Alienware-Digital-Delivery-Application_25CR7_WIN_5.0.82.0_A25_01.EXE' to folder 'Extensions'.
+[2025-12-04 10:21:56] No target folder found for file 'desktop.ini' with extension '.ini'.
+[2025-12-04 10:21:56] Moved file 'Firefox Installer (1).exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'Firefox Installer.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'Git-2.50.1-64-bit.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'GoogleDriveSetup.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] No target folder found for file 'Grade-8-Science-Test-50marks' with extension ''.
+[2025-12-04 10:21:56] No target folder found for file 'IMG_3834.heic' with extension '.heic'.
+[2025-12-04 10:21:56] No target folder found for file 'IMG_4030 (1).heic' with extension '.heic'.
+[2025-12-04 10:21:56] No target folder found for file 'IMG_4030.HEIC' with extension '.heic'.
+[2025-12-04 10:21:56] Moved file 'krita-x64-5.2.6-setup.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'LM-Studio-0.3.13-2-x64.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'nmap-7.97-setup.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] No target folder found for file 'node-v22.17.0-x64 (1).msi' with extension '.msi'.
+[2025-12-04 10:21:56] No target folder found for file 'node-v22.17.0-x64.msi' with extension '.msi'.
+[2025-12-04 10:21:56] Moved file 'OBS-Studio-30.1.2-Full-Installer-x64.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'Obsidian-1.7.7.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'OfficeSetup.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'PathOfBuildingCommunity-Setup.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'PathOfExileInstaller.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'ProtonVPN_v4.3.1_x64.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'ProtonVPN_win_v2.4.3.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'pycharm-community-2023.2.4.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'RobloxPlayerInstaller(1).exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'RobloxPlayerInstaller.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'SteamSetup(1).exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'SteamSetup.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'UnityHubSetup.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] Moved file 'VSCodeUserSetup-x64-1.92.0.exe' to folder 'Extensions'.
+[2025-12-04 10:21:56] File organization complete.
