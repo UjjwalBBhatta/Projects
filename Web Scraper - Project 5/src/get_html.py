@@ -8,7 +8,8 @@ def get_html(url):
     try:
         response = requests.get(url)
         response.raise_for_status()  # Raise an error for bad responses
-        return response.text
+        html_content = response.text
+        return html_content
     except requests.exceptions.RequestException as e:
         print(f"An error occurred: {e}")
         return None
