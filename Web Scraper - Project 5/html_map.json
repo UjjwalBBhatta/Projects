@@ -1,3 +1,27 @@
 {
-    
+  "links": {
+    "description": "All <a> tags with href",
+    "tag": "a",
+    "attributes": ["href"],
+    "text": true
+  },
+  "headings": {
+    "description": "All h1–h6 headings",
+    "tags": ["h1", "h2", "h3", "h4", "h5", "h6"],
+    "attributes": [],
+    "text": true
+  },
+  "paragraphs": {
+    "description": "All <p> tags",
+    "tag": "p",
+    "attributes": [],
+    "text": true
+  },
+  "custom": {
+    "description": "User-defined tag and optional class",
+    "tag": null,
+    "class": null,
+    "attributes": [],
+    "text": true
+  }
 }
