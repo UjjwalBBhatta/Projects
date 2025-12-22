@@ -1,0 +1,9 @@
+{
+    "menu_options": {
+        "1": "Add a new receiver",
+        "2": "Delete a receiver",
+        "3": "Create email content",
+        "4": "Send bulk emails",
+        "q": "Exit"
+    }
+}
