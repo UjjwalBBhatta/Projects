@@ -1,0 +1,12 @@
+{
+    "receivers": [
+        {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com"
+        },
+        {
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com"
+        }
+    ]
+}
