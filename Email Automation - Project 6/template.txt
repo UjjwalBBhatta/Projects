@@ -1,0 +1,9 @@
+Hi {name},
+
+I hope you are having a great week!
+
+I am testing my new Python automation bot.
+My email is ujjwalbhatta012@gmail.com, just in case you need to reach me.
+
+Best,
+Ujjwal
