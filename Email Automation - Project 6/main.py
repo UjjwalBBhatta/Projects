@@ -3,10 +3,10 @@ import sys
 
 # Import your modules
 # Ensure these files exist in the same directory!
-import add_receiver
-import del_receiver 
-import create_content  
-import send_email      
+from src import add_receiver
+from src import del_receiver 
+from src import create_content
+from src import send_email     
 
 def load_menu():
     """Loads menu options from JSON file."""
