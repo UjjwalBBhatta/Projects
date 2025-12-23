@@ -30,10 +30,20 @@ def add_receiver(name, email):
         json.dump(receivers, file, indent=4)
     print(f"Receiver {name} with email {email} added successfully.")
 
+
+def add_receiver_interactive():
+    """
+    USER INTERFACE: Handles the input prompts and calls the logic function.
+    """
+    print("\n--- ADD NEW RECEIVER ---")
+    name = input("Enter Name: ").strip()
+    email = input("Enter Email: ").strip()
     
+    if name and email:
+        add_receiver(name, email)
+    else:
+        print("❌ Name and Email cannot be empty.")
+
+# This block allows you to test this file individually if you want
 if __name__ == "__main__":
-    print("--- Add New Email Receiver ---")
-    user_name = input("Enter name: ")     # No need for str(), input is always string
-    user_email = input("Enter email: ")
-    
-    add_receiver(user_name, user_email)
+    add_receiver_interactive()
