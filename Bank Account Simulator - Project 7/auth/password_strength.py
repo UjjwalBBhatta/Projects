@@ -14,7 +14,6 @@ def check_strength(password):
         score += 1
     if any(c in '!@#$%^&*' for c in password):
         score += 1
-    
     if score <= 2:
         return "Weak"
     elif score <= 4:
